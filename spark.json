@@ -1,5 +1,5 @@
 {
-  "name": "ParticleBNO055",
+  "name": "Adafruit_BNO055",
   "author": "ds",
   "license": "MIT",
   "version": "0.0.11",
